@@ -1,0 +1,401 @@
+Run_ID,Lx,Ly,N_sites,t1,t2,U,Target_Filling,N_elec,Energy,Max_Err,Converged,Duration_sec
+Kagome_Hubbard_000,1,1,3,1.0,-0.20937372296514994,3.6480876449436916,0.417,1,-3.1625051081394,"MPS, L=3, bc='finite'.
+chi: [2, 2]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,1.0037753582000732
+Kagome_Hubbard_001,1,1,3,1.0,0.19755530728559428,9.624583698349802,1.2,4,4.8343624692074245,"MPS, L=3, bc='finite'.
+chi: [3, 3]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,1.0137965679168701
+Kagome_Hubbard_002,1,1,3,1.0,0.1119217746917896,1.9082843949925425,0.417,1,-4.447687098767158,"MPS, L=3, bc='finite'.
+chi: [2, 2]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,1.0380511283874512
+Kagome_Hubbard_003,1,1,3,1.0,-0.09036168514298551,1.4842483955103476,1.0,3,-4.539158004459985,"MPS, L=3, bc='finite'.
+chi: [4, 4]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,1.0592405796051025
+Kagome_Hubbard_004,1,1,3,1.0,-0.048519841242721906,6.2029581946558885,0.8,2,-6.150935459591736,"MPS, L=3, bc='finite'.
+chi: [4, 4]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,0.9203667640686035
+Kagome_Hubbard_005,1,1,3,1.0,-0.14864283765060163,1.6481384365240281,1.2,4,-1.7572902128735648,"MPS, L=3, bc='finite'.
+chi: [3, 3]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,1.0339922904968262
+Kagome_Hubbard_006,1,1,3,1.0,0.12904945523611444,6.326989858533098,0.8,2,-7.472298489774274,"MPS, L=3, bc='finite'.
+chi: [4, 4]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,0.9836444854736328
+Kagome_Hubbard_007,1,1,3,1.0,0.09022773192027378,6.617815282689824,1.0,3,-3.3441528417136186,"MPS, L=3, bc='finite'.
+chi: [4, 4]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,0.9572741985321045
+Kagome_Hubbard_008,1,1,3,1.0,-0.01818105922652924,8.959139561432488,0.8,2,-5.990648778036802,"MPS, L=3, bc='finite'.
+chi: [4, 4]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,0.986363410949707
+Kagome_Hubbard_009,1,1,3,1.0,0.24081328595641255,0.7818339870595705,0.333,1,-4.96325314382565,"MPS, L=3, bc='finite'.
+chi: [2, 2]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,1.0264074802398682
+Kagome_Hubbard_010,1,1,3,1.0,0.0364744294688879,0.42398666468767476,0.417,1,-4.1458977178755525,"MPS, L=3, bc='finite'.
+chi: [2, 2]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,1.0459306240081787
+Kagome_Hubbard_011,1,1,3,1.0,0.05249406365875142,0.9079796213533882,1.0,3,-5.732056182561406,"MPS, L=3, bc='finite'.
+chi: [4, 4]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,1.0714337825775146
+Kagome_Hubbard_012,1,1,3,1.0,-0.26833736395138363,2.5674274888575357,0.333,1,-2.926650544194466,"MPS, L=3, bc='finite'.
+chi: [2, 2]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,1.0697369575500488
+Kagome_Hubbard_013,1,1,3,1.0,0.19896455448426364,2.7807551313946592,0.8,2,-8.776192322353898,"MPS, L=3, bc='finite'.
+chi: [4, 4]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,0.9661335945129395
+Kagome_Hubbard_014,1,1,3,1.0,0.27397707214603634,5.733791005135133,0.8,2,-8.695333946451843,"MPS, L=3, bc='finite'.
+chi: [4, 4]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,0.9916014671325684
+Kagome_Hubbard_015,1,1,3,1.0,0.059300963094204184,7.105730968261607,0.333,1,-4.237203852376818,"MPS, L=3, bc='finite'.
+chi: [2, 2]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,1.045053243637085
+Kagome_Hubbard_016,1,1,3,1.0,0.2926312030509251,3.7647909586491735,0.8,2,-9.271917087001631,"MPS, L=3, bc='finite'.
+chi: [4, 4]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,0.9735033512115479
+Kagome_Hubbard_017,1,1,3,1.0,-0.2639513386616756,3.4614634359500878,0.333,1,-2.9441946453532966,"MPS, L=3, bc='finite'.
+chi: [2, 2]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,1.0326101779937744
+Kagome_Hubbard_018,1,1,3,1.0,0.10072476143268627,5.394017997342037,0.333,1,-4.402899045730747,"MPS, L=3, bc='finite'.
+chi: [2, 2]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,1.0545451641082764
+Kagome_Hubbard_019,1,1,3,1.0,0.11915736914864483,2.2053708834307684,1.0,3,-5.372837084015958,"MPS, L=3, bc='finite'.
+chi: [4, 4]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,1.048530101776123
+Kagome_Hubbard_020,1,1,3,1.0,0.19659460918890298,9.704363721612337,1.0,3,-3.0209880515337737,"MPS, L=3, bc='finite'.
+chi: [4, 4]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,0.963280200958252
+Kagome_Hubbard_021,1,1,3,1.0,-0.14602138965387493,8.290663154888307,0.417,1,-3.4159144413844995,"MPS, L=3, bc='finite'.
+chi: [2, 2]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,1.0428833961486816
+Kagome_Hubbard_022,1,1,3,1.0,-0.25505212011734557,7.111122911197132,1.2,4,4.13133139166652,"MPS, L=3, bc='finite'.
+chi: [3, 3]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,0.9864547252655029
+Kagome_Hubbard_023,1,1,3,1.0,-0.19760366787699662,1.6764957727249197,0.417,1,-3.2095853284920137,"MPS, L=3, bc='finite'.
+chi: [2, 2]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,0.9829638004302979
+Kagome_Hubbard_024,1,1,3,1.0,-0.22822853056096687,2.6915396962881295,0.5,2,-5.433069339709061,"MPS, L=3, bc='finite'.
+chi: [4, 4]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,1.0145900249481201
+Kagome_Hubbard_025,1,1,3,1.0,0.1404020262055229,4.457747683048543,1.0,3,-4.399235396148765,"MPS, L=3, bc='finite'.
+chi: [4, 4]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,1.009565830230713
+Kagome_Hubbard_026,1,1,3,1.0,0.2646327933393064,5.548620208353726,0.8,2,-8.660312879725451,"MPS, L=3, bc='finite'.
+chi: [4, 4]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,0.9970166683197021
+Kagome_Hubbard_027,1,1,3,1.0,0.1546812110246532,2.852002579724883,0.8,2,-8.407866460197118,"MPS, L=3, bc='finite'.
+chi: [4, 4]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,0.9701519012451172
+Kagome_Hubbard_028,1,1,3,1.0,-0.12966480312656806,7.019361607642266,1.2,4,3.538020820148536,"MPS, L=3, bc='finite'.
+chi: [3, 3]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,1.0243775844573975
+Kagome_Hubbard_029,1,1,3,1.0,-0.2939703523527179,5.074822031931067,0.417,1,-2.824118590589128,"MPS, L=3, bc='finite'.
+chi: [2, 2]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,1.0370254516601562
+Kagome_Hubbard_030,1,1,3,1.0,0.09105020152709098,8.846897306284447,1.0,3,-2.754866161679848,"MPS, L=3, bc='finite'.
+chi: [4, 4]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,0.9973886013031006
+Kagome_Hubbard_031,1,1,3,1.0,-0.27395041721076985,0.21817159503917086,1.2,4,-2.6860267361177512,"MPS, L=3, bc='finite'.
+chi: [3, 3]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,1.007603645324707
+Kagome_Hubbard_032,1,1,3,1.0,-0.1948194812627359,9.281774057446675,0.8,2,-4.704084778096398,"MPS, L=3, bc='finite'.
+chi: [4, 4]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,0.9816429615020752
+Kagome_Hubbard_033,1,1,3,1.0,0.04852322009385801,6.036952042767158,0.8,2,-6.911156213627719,"MPS, L=3, bc='finite'.
+chi: [4, 4]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,0.950798749923706
+Kagome_Hubbard_034,1,1,3,1.0,0.014847832241051406,0.34910684931658864,0.8,2,-8.004616198652798,"MPS, L=3, bc='finite'.
+chi: [4, 4]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,0.9715006351470947
+Kagome_Hubbard_035,1,1,3,1.0,0.20796448662788408,5.918955075945374,1.2,4,1.0870971294338376,"MPS, L=3, bc='finite'.
+chi: [3, 3]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,1.0703067779541016
+Kagome_Hubbard_036,1,1,3,1.0,-0.060768394370852796,4.281551554489596,1.2,4,0.5246251319730078,"MPS, L=3, bc='finite'.
+chi: [3, 3]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,1.0202794075012207
+Kagome_Hubbard_037,1,1,3,1.0,0.24178100733683355,1.77250876101101,1.2,4,-3.194615268336324,"MPS, L=3, bc='finite'.
+chi: [3, 3]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,1.009599208831787
+Kagome_Hubbard_038,1,1,3,1.0,0.15507902083574876,9.028914985505097,1.2,4,4.4085989021621,"MPS, L=3, bc='finite'.
+chi: [3, 3]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,1.0075876712799072
+Kagome_Hubbard_039,1,1,3,1.0,-0.12157913926674951,4.936681502263652,0.417,1,-3.5136834429330013,"MPS, L=3, bc='finite'.
+chi: [2, 2]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,0.9929103851318359
+Kagome_Hubbard_040,1,1,3,1.0,-0.00010824387860852713,7.309508435986181,0.8,2,-6.342958383042976,"MPS, L=3, bc='finite'.
+chi: [4, 4]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,0.9767570495605469
+Kagome_Hubbard_041,1,1,3,1.0,0.09934487841646883,9.264651641227067,1.2,4,4.86727212756119,"MPS, L=3, bc='finite'.
+chi: [3, 3]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,1.013533115386963
+Kagome_Hubbard_042,1,1,3,1.0,-0.2543034525835251,4.300836904777919,0.417,1,-2.9827861896659,"MPS, L=3, bc='finite'.
+chi: [2, 2]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,0.9842820167541504
+Kagome_Hubbard_043,1,1,3,1.0,-0.14738240385710547,5.5347617105038545,1.0,3,-2.5075906647815693,"MPS, L=3, bc='finite'.
+chi: [4, 4]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,0.9432590007781982
+Kagome_Hubbard_044,1,1,3,1.0,-0.03152509449603158,5.209712658458114,0.8,2,-6.448426777683724,"MPS, L=3, bc='finite'.
+chi: [4, 4]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,0.9218757152557373
+Kagome_Hubbard_045,1,1,3,1.0,-0.27442070989817213,4.217794991424324,0.8,2,-4.7755739838977735,"MPS, L=3, bc='finite'.
+chi: [4, 4]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,0.9902689456939697
+Kagome_Hubbard_046,1,1,3,1.0,0.03868215119917778,1.9917848953364523,1.0,3,-5.016719006123478,"MPS, L=3, bc='finite'.
+chi: [4, 4]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,0.9503140449523926
+Kagome_Hubbard_047,1,1,3,1.0,-0.202228225400095,9.461270583293532,1.0,3,-1.4896848652617536,"MPS, L=3, bc='finite'.
+chi: [4, 4]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,0.9513411521911621
+Kagome_Hubbard_048,1,1,3,1.0,-0.2971124174294519,4.111328494978167,0.333,1,-2.811550330282193,"MPS, L=3, bc='finite'.
+chi: [2, 2]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,1.003840684890747
+Kagome_Hubbard_049,1,1,3,1.0,-0.09980161852248523,7.530044292226472,0.5,2,-5.578935822657401,"MPS, L=3, bc='finite'.
+chi: [4, 4]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,0.9357101917266846
+Kagome_Hubbard_050,1,1,3,1.0,-0.23335831211034125,6.4907217784731355,0.5,2,-4.741069338668383,"MPS, L=3, bc='finite'.
+chi: [4, 4]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,0.943627119064331
+Kagome_Hubbard_051,1,1,3,1.0,0.02713342267062485,1.0398713452840689,0.333,1,-4.108533690682497,"MPS, L=3, bc='finite'.
+chi: [2, 2]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,1.0429127216339111
+Kagome_Hubbard_052,1,1,3,1.0,0.13011164839216738,2.7125263941794526,0.333,1,-4.5204465935686695,"MPS, L=3, bc='finite'.
+chi: [2, 2]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,1.0101149082183838
+Kagome_Hubbard_053,1,1,3,1.0,0.2699231900151386,3.252211858604985,0.5,2,-9.218059550862264,"MPS, L=3, bc='finite'.
+chi: [4, 4]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,0.9233288764953613
+Kagome_Hubbard_054,1,1,3,1.0,-0.11918146896942275,1.3936140635184975,0.417,1,-3.52327412412231,"MPS, L=3, bc='finite'.
+chi: [2, 2]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,1.0181996822357178
+Kagome_Hubbard_055,1,1,3,1.0,-0.22268317912683572,2.1759315059925934,0.8,2,-5.596815804891406,"MPS, L=3, bc='finite'.
+chi: [4, 4]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,0.9278297424316406
+Kagome_Hubbard_056,1,1,3,1.0,0.004286174162035417,0.5528967942500532,0.8,2,-7.855539896139366,"MPS, L=3, bc='finite'.
+chi: [4, 4]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,0.9474136829376221
+Kagome_Hubbard_057,1,1,3,1.0,-0.10171597623300752,0.32678752587776916,0.8,2,-7.0795220786560575,"MPS, L=3, bc='finite'.
+chi: [4, 4]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,0.9488310813903809
+Kagome_Hubbard_058,1,1,3,1.0,0.10377888149349224,9.207551499505172,0.417,1,-4.4151155259739685,"MPS, L=3, bc='finite'.
+chi: [2, 2]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,1.0225894451141357
+Kagome_Hubbard_059,1,1,3,1.0,-0.064923533700316,7.775642658427399,1.2,4,4.035336793228664,"MPS, L=3, bc='finite'.
+chi: [3, 3]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,0.9795482158660889
+Kagome_Hubbard_060,1,1,3,1.0,0.1762208880285578,0.8333983645717848,1.2,4,-3.8714851875424463,"MPS, L=3, bc='finite'.
+chi: [3, 3]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,0.9420740604400635
+Kagome_Hubbard_061,1,1,3,1.0,0.06966975706582695,6.375191300514498,0.8,2,-7.013407879411364,"MPS, L=3, bc='finite'.
+chi: [4, 4]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,0.9611515998840332
+Kagome_Hubbard_062,1,1,3,1.0,0.1321203955400302,5.474715783195065,1.2,4,0.9462342010349466,"MPS, L=3, bc='finite'.
+chi: [3, 3]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,1.0168306827545166
+Kagome_Hubbard_063,1,1,3,1.0,-0.035356663222992524,1.9032971805329848,0.417,1,-3.8585733471080297,"MPS, L=3, bc='finite'.
+chi: [2, 2]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,1.0231893062591553
+Kagome_Hubbard_064,1,1,3,1.0,-0.24626505537292911,3.1465222694186643,0.333,1,-3.0149397785082837,"MPS, L=3, bc='finite'.
+chi: [2, 2]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,1.0193862915039062
+Kagome_Hubbard_065,1,1,3,1.0,0.05921708607179865,5.268551704689763,0.417,1,-4.2368683442871955,"MPS, L=3, bc='finite'.
+chi: [2, 2]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,0.9921925067901611
+Kagome_Hubbard_066,1,1,3,1.0,-0.16713939499530323,6.628281227142316,0.5,2,-5.206946449385564,"MPS, L=3, bc='finite'.
+chi: [4, 4]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,0.9347662925720215
+Kagome_Hubbard_067,1,1,3,1.0,-0.0883249565531812,3.907249654569928,0.333,1,-3.6467001737872753,"MPS, L=3, bc='finite'.
+chi: [2, 2]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,1.0429108142852783
+Kagome_Hubbard_068,1,1,3,1.0,0.15088729598241285,1.3397935188049173,0.333,1,-4.603549183929651,"MPS, L=3, bc='finite'.
+chi: [2, 2]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,1.034036636352539
+Kagome_Hubbard_069,1,1,3,1.0,-0.24767568619140148,8.572435734893524,1.0,3,-1.4531106928684765,"MPS, L=3, bc='finite'.
+chi: [4, 4]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,0.9460983276367188
+Kagome_Hubbard_070,1,1,3,1.0,-0.07136603159918165,0.4066275163995444,0.5,2,-7.296785953016739,"MPS, L=3, bc='finite'.
+chi: [4, 4]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,0.9710590839385986
+Kagome_Hubbard_071,1,1,3,1.0,-0.014122008731810465,3.5035044284023593,0.417,1,-3.9435119650727577,"MPS, L=3, bc='finite'.
+chi: [2, 2]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,1.0001487731933594
+Kagome_Hubbard_072,1,1,3,1.0,-0.08477529000937747,1.1810501838209257,0.333,1,-3.66089883996249,"MPS, L=3, bc='finite'.
+chi: [2, 2]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,1.0308654308319092
+Kagome_Hubbard_073,1,1,3,1.0,0.17609621555014088,3.5509895984294073,0.8,2,-8.406146893149678,"MPS, L=3, bc='finite'.
+chi: [4, 4]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,0.9327170848846436
+Kagome_Hubbard_074,1,1,3,1.0,0.10429491362812682,2.0819582965977808,1.0,3,-5.35330603046402,"MPS, L=3, bc='finite'.
+chi: [4, 4]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,1.0593807697296143
+Kagome_Hubbard_075,1,1,3,1.0,0.19155664238658138,9.00092922665935,0.8,2,-7.516831361415096,"MPS, L=3, bc='finite'.
+chi: [4, 4]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,0.8343489170074463
+Kagome_Hubbard_076,1,1,3,1.0,-0.1612636710349841,1.159132548870611,0.5,2,-6.35200391656695,"MPS, L=3, bc='finite'.
+chi: [4, 4]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,0.9330217838287354
+Kagome_Hubbard_077,1,1,3,1.0,-0.27951566313018544,3.805935710683032,0.333,1,-2.8819373474792584,"MPS, L=3, bc='finite'.
+chi: [2, 2]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,1.018312931060791
+Kagome_Hubbard_078,1,1,3,1.0,-0.20396198044272368,9.825512108856922,1.2,4,6.641360030627816,"MPS, L=3, bc='finite'.
+chi: [3, 3]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,0.9792871475219727
+Kagome_Hubbard_079,1,1,3,1.0,-0.1227637640710118,9.433771189306036,1.2,4,5.92482624559008,"MPS, L=3, bc='finite'.
+chi: [3, 3]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,0.9940042495727539
+Kagome_Hubbard_080,1,1,3,1.0,0.258360486809235,3.4011947756349636,0.333,1,-5.033441947236938,"MPS, L=3, bc='finite'.
+chi: [2, 2]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,0.9874317646026611
+Kagome_Hubbard_081,1,1,3,1.0,0.029679920900340495,2.7234860664159646,1.0,3,-4.577712402905179,"MPS, L=3, bc='finite'.
+chi: [4, 4]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,0.9456334114074707
+Kagome_Hubbard_082,1,1,3,1.0,0.15840174494968912,2.6326527098852446,0.333,1,-4.633606979798756,"MPS, L=3, bc='finite'.
+chi: [2, 2]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,1.0293033123016357
+Kagome_Hubbard_083,1,1,3,1.0,0.2774326015088046,2.0659992149808466,0.333,1,-5.109730406035219,"MPS, L=3, bc='finite'.
+chi: [2, 2]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,0.9905896186828613
+Kagome_Hubbard_084,1,1,3,1.0,-0.0640101151369657,9.10017859844331,0.8,2,-5.645197336915402,"MPS, L=3, bc='finite'.
+chi: [4, 4]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,0.9326827526092529
+Kagome_Hubbard_085,1,1,3,1.0,0.19041133930554865,2.1518315129546823,0.333,1,-4.761645357222195,"MPS, L=3, bc='finite'.
+chi: [2, 2]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,1.0110082626342773
+Kagome_Hubbard_086,1,1,3,1.0,0.2867976064899232,7.096321812501417,0.333,1,-5.147190425959692,"MPS, L=3, bc='finite'.
+chi: [2, 2]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,1.0108482837677002
+Kagome_Hubbard_087,1,1,3,1.0,0.25859919431595174,3.699438395447925,1.0,3,-5.411815804929036,"MPS, L=3, bc='finite'.
+chi: [4, 4]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,0.9261147975921631
+Kagome_Hubbard_088,1,1,3,1.0,-0.04961556483982826,0.3165501372138877,0.5,2,-7.499493048670465,"MPS, L=3, bc='finite'.
+chi: [4, 4]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,0.9384100437164307
+Kagome_Hubbard_089,1,1,3,1.0,-0.03121780672051544,3.8647809964387854,1.0,3,-3.7041694050696425,"MPS, L=3, bc='finite'.
+chi: [4, 4]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,0.9230101108551025
+Kagome_Hubbard_090,1,1,3,1.0,-0.2144855601809738,1.7566317988733766,0.417,1,-3.1420577592761045,"MPS, L=3, bc='finite'.
+chi: [2, 2]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,1.010988712310791
+Kagome_Hubbard_091,1,1,3,1.0,0.030564698066659512,0.6479141842757732,0.333,1,-4.122258792266638,"MPS, L=3, bc='finite'.
+chi: [2, 2]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,1.017599105834961
+Kagome_Hubbard_092,1,1,3,1.0,0.028819722989378738,1.0988586708631012,0.417,1,-4.115278891957517,"MPS, L=3, bc='finite'.
+chi: [2, 2]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,0.993154764175415
+Kagome_Hubbard_093,1,1,3,1.0,0.09654161814627732,7.834099916036004,0.8,2,-6.982963868481133,"MPS, L=3, bc='finite'.
+chi: [4, 4]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,0.9388458728790283
+Kagome_Hubbard_094,1,1,3,1.0,0.0810397294201432,1.6998238056363633,0.8,2,-8.128969786791163,"MPS, L=3, bc='finite'.
+chi: [4, 4]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,0.9395151138305664
+Kagome_Hubbard_095,1,1,3,1.0,-0.18975839200542027,7.929817921597371,0.333,1,-3.240966431978319,"MPS, L=3, bc='finite'.
+chi: [2, 2]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,1.0328702926635742
+Kagome_Hubbard_096,1,1,3,1.0,0.14473779505165213,1.6092443029462624,0.8,2,-8.661693178784564,"MPS, L=3, bc='finite'.
+chi: [4, 4]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,0.9184291362762451
+Kagome_Hubbard_097,1,1,3,1.0,-0.22889177590894172,5.926347239053477,0.333,1,-3.084432896364232,"MPS, L=3, bc='finite'.
+chi: [2, 2]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,1.0146286487579346
+Kagome_Hubbard_098,1,1,3,1.0,-0.10575236637206423,5.41738963056677,1.2,4,1.8403990960550296,"MPS, L=3, bc='finite'.
+chi: [3, 3]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,0.9972302913665771
+Kagome_Hubbard_099,1,1,3,1.0,0.2786404375302784,0.9235270475825216,1.0,3,-7.075157680471879,"MPS, L=3, bc='finite'.
+chi: [4, 4]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0)",True,0.9387962818145752
