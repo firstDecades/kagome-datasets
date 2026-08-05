@@ -1,1 +1,13 @@
-Run_ID,Lx,Ly,N_sites,t1,t2,U,Target_Filling,N_elec,Energy,Max_Err,Converged,Duration_sec
+Run_ID,Lx,Ly,N_sites,t1,t2,U,Target_Filling,N_elec,Energy_0,Average_Energy,MPS_Info,Converged,Duration_sec
+000,3,1,9,1.0,0.24818476872048784,2.7360829943381253,0.417,4,-9.016354919297093,-9.433222262790723,"MPS, L=9, bc='finite'.
+chi: [4, 16, 35, 48, 48, 35, 16, 4]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0) (0.0, 1.0) (0.0, 1.0) (0.0, 1.0) (0.0, 1.0) (0.0, 1.0) (0.0, 1.0)",True,185.4462263584137
+001,3,1,9,1.0,0.11698950502775496,0.9539161877598589,0.5,4,-9.155967734276619,-9.555092837239224,"MPS, L=9, bc='finite'.
+chi: [4, 16, 35, 48, 48, 35, 16, 4]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (1.0, 0.0) (1.0, 0.0) (0.0, 1.0) (0.0, 1.0) (0.0, 1.0) (0.0, 1.0) (0.0, 1.0) (0.0, 1.0) (0.0, 1.0)",True,167.3017566204071
+002,3,1,9,1.0,0.17904483093227092,2.294868055212275,0.8,7,-10.230971456355348,-10.308476108304502,"MPS, L=9, bc='finite'.
+chi: [4, 16, 64, 205, 205, 64, 16, 4]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (0.0, 1.0) (0.0, 1.0) (0.0, 1.0) (0.0, 1.0) (0.0, 1.0) (0.0, 1.0) (0.0, 1.0) (0.0, 1.0) (0.0, 1.0)",True,187.0072898864746
